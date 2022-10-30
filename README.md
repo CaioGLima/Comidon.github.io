@@ -1,4 +1,4 @@
-https://github.com/CaioGLima/Comidon.github.io/blob/777d2722793d1d559c666210b907028570a48d54/index.html Link para o site
+https://github.com/CaioGLima/Comidon.github.io/blob/index.html Link para o site
 
 # Comidon.github.io
 
