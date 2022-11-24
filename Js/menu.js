@@ -2,7 +2,7 @@ let menuJson=[
   {
     id: 1,
     name: "Burrito de Carne",
-    img: "imagens\burritoCarne.jpg",
+    img: "imagens/burritoCarne.jpg",
     price: [10.00, 12.50, 15.00],
     sizes: ['15.00cm', '20.00cm', '25.00cm'],
     description: "Burrito recheado com carne"
